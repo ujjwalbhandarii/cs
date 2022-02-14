@@ -32,3 +32,22 @@ int main()
     bye.hello();
     return 0;
 }
+
+// function outside class
+#include <iostream>
+using namespace std;
+class print
+{
+public:
+    void output();
+};
+void print ::output()
+{
+    cout << "hello world";
+}
+int main()
+{
+    print a;
+    a.output();
+    return 0;
+}
