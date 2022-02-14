@@ -41,3 +41,32 @@ int main()
     cout << c.speed(200);
     return 0;
 }
+
+// multiplacation table
+#include <iostream>
+using namespace std;
+class mul
+{
+public:
+    int inte;
+    int mult()
+    {
+        cout << "Enter an integer: ";
+
+        cin >> inte;
+        cout << "Multiplacatation table for"
+             << " " << inte << " "
+             << "is" << endl;
+        for (int i = 1; i <= 10; i++)
+        {
+            cout << inte << " * " << i << " = "
+                 << " " << inte * i << endl;
+        }
+    }
+};
+int main()
+{
+    mul m;
+    m.mult();
+    return 0;
+}
