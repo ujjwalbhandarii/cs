@@ -39,6 +39,57 @@ int main()
     return 0;
 }
 
+// another example     (calling function inside constructor )
+#include <iostream>
+using namespace std;
+class ujjwal
+{
+public:
+    ujjwal();     // initialization of constructor
+    int demand(); // intialization of function
+};
+
+ujjwal::ujjwal() // constructor
+{
+    demand(); // function call
+}
+
+int ujjwal::demand() // function outside class
+{
+    cout << "Demand function is working." << endl;
+}
+int main()
+{
+    ujjwal u; // class_name and constructor.
+    return 0;
+}
+
+// another
+
+#include <iostream>
+using namespace std;
+class tryA
+{
+public:
+    int cost;
+    string g_name;
+    string bf_name;
+    tryA(string x, string y, int z);
+};
+
+tryA::tryA(string x, string y, int z)
+{
+    g_name = x;
+    bf_name = y;
+    cost = z;
+}
+int main()
+{
+    tryA s("neha", "ujjwal", 1200000);
+    cout << s.bf_name << " has spend " << s.cost << " for " << s.g_name << endl;
+    return 0;
+}
+
 /*
 Funny one
 
