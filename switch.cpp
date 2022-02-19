@@ -1,39 +1,37 @@
 // simple switch demo.
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//     int num;
+// flag:
+//     cout << "Please select your choice." << endl;
+//     cin >> num;
 
-int main()
-{
-    int num;
+//     switch (num)
+//     {
 
-flag:
-    cout << "Please select your choice." << endl;
-    cin >> num;
+//     case 1:
+//         cout << "you choose 1" << endl;
+//         goto flag;
 
-    switch (num)
-    {
+//     case 2:
+//         cout << "You choose case 2 " << endl;
+//         goto flag;
 
-    case 1:
-        cout << "you choose 1" << endl;
-        goto flag;
+//     case 3:
+//         cout << "you choose 3" << endl;
+//         goto flag;
 
-    case 2:
-        cout << "You choose case 2 " << endl;
-        goto flag;
+//     case 4:
+//         cout << "you choose 4" << endl;
+//         goto flag;
 
-    case 3:
-        cout << "you choose 3" << endl;
-        goto flag;
-
-    case 4:
-        cout << "you choose 4" << endl;
-        goto flag;
-
-    default:
-        break;
-    }
-    return 0;
-}
+//     default:
+//         break;
+//     }
+//     return 0;
+// }
 
 // switch
 #include <iostream>
@@ -63,6 +61,7 @@ flag:
         cout << "You choose 1" << endl;
         cout << "Enter your name: ";
         cin >> name;
+        // getline(cin, name);           //not working ( taking name without space)
         cout << "Your name is ==>" << name << endl;
         cout << endl;
         goto flag;
