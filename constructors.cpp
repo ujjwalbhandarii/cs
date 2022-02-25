@@ -16,7 +16,7 @@ public:
 };
 int main()
 {
-    print car;
+    print car; // this is called constructor
     return 0;
 }
 
