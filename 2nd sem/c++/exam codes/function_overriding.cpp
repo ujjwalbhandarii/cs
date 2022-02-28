@@ -1,3 +1,5 @@
+// example of function over riding
+
 #include <iostream>
 using namespace std;
 class Base
