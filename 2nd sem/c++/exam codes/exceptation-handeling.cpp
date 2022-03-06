@@ -1,12 +1,10 @@
 // wap program for "exceptions with arguments".
 
-// checking needed.
-
 #include <iostream>
 using namespace std;
 double division(int var1, int var2)
 {
-    if (var1 == 0)
+    if (var2 == 0)
     {
         throw "divison by zero";
     }
