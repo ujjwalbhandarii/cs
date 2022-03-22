@@ -38,6 +38,8 @@ int main()
     s.display();
     return 0;
 }
+// Note: Even if we do not define any constructor explicitly, the compiler will automatically
+// provide a default constructor implicitly.
 
 /*
 # What is constructor?
