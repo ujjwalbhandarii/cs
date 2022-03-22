@@ -1,5 +1,5 @@
 /*
-following is the format for declaring the a simple class and object
+following is the format for declaring the simple class and object
 
 class className{
     public:     # access specifiers
