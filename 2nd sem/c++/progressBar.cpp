@@ -23,8 +23,8 @@ void progressbar()
         std::cout << "] " << progress << " %" << '\r';
         std::cout.flush();
         std::this_thread::sleep_for(std::chrono::milliseconds(500)); // sleep
-        // Delete this line as well in implementation
-        if (progress == 100)
+        
+        if (progress == 100) ////  
             break;
     }
     std::cout << std::endl;
