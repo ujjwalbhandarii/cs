@@ -101,3 +101,13 @@ int main()
     w3.putdata();
     return 0;
 }
+
+/*
+pass by refrence:
+
+void sum_weight (weight &,weight &) ;
+void weight :: sum_weight (weight & w1, weight & w2) {
+  // body of function
+}
+
+*/
