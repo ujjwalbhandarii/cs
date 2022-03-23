@@ -1,0 +1,12 @@
+Rules for operator overloading
+
+In C++, following are the general rules for operator overloading.
+
+1) Only built-in operators can be overloaded. New operators can not be created.
+2) Arity of the operators cannot be changed.
+3) Precedence and associativity of the operators cannot be changed.
+4) Overloaded operators cannot have default arguments except the function call operator () which can have default arguments.
+5) Operators cannot be overloaded for built in types only. At least one operand must be used defined type.
+6) Assignment (=), subscript ([]), function call (“()”), and member selection (->) operators must be defined as member functions
+7) Except the operators specified in point 6, all other operators can be either member functions or a non member functions.
+8 ) Some operators like (assignment)=, (address)& and comma (,) are by default overloaded.
