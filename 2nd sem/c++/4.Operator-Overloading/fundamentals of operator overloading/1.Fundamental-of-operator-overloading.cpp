@@ -1,4 +1,4 @@
-/*  [ copy and paste the example code in a individual file else error might occur ]
+/*
 
 💣→→→→ Operator Overloading:
 C++ provides a special function to change the current functionality of some operators within its class which is often called as operator overloading.
@@ -35,6 +35,5 @@ Below are some criteria/rules to define the operator function:
 ➡️ All the class member object should be public if operator overloading is implemented.
 ➡️ Operators that cannot be overloaded are . .* :: ?:
 ➡️ Operator cannot be used to overload when declaring that function as friend function = () [] ->.
-
 
 */
