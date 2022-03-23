@@ -1,0 +1,40 @@
+/*  [ copy and paste the example code in a individual file else error might occur ]
+
+💣→→→→ Operator Overloading:
+C++ provides a special function to change the current functionality of some operators within its class which is often called as operator overloading.
+Operator Overloading is the method by which we can change the function of some specific operators to do some different task.
+For example,
+we can overload an operator ‘+’ in a class like String so that we can concatenate two strings by just using +.
+Other example classes where arithmetic operators may be overloaded are Complex Number, Fractional Number, Big Integer, etc.
+
+
+This can be done by declaring the function, its syntax is,
+
+Return_Type classname :: operator op(Argument list)
+{
+	Function Body
+}
+
+In the above syntax Return_Type is value type to be returned to another object,
+operator op is the function where the operator is a keyword and op is the operator to be overloaded.
+Operator function must be either non-static (member function) or friend function.
+
+
+
+Operator Overloading can be done by using three approaches ie.
+1. Overloading unary operator.
+2. Overloading binary operator.
+3. Overloading binary operator using a friend function.
+
+
+
+Below are some criteria/rules to define the operator function:
+
+➡️ In case of a non-static function, the binary operator should have only one argument and unary should not have an argument.
+➡️ In the case of a friend function, the binary operator should have only two argument and unary should have only one argument.
+➡️ All the class member object should be public if operator overloading is implemented.
+➡️ Operators that cannot be overloaded are . .* :: ?:
+➡️ Operator cannot be used to overload when declaring that function as friend function = () [] ->.
+
+
+*/
