@@ -1,5 +1,5 @@
 // chaitra 9 [ march 23 ]
-// program to display nested class
+// example of nested class
 #include <iostream>
 using namespace std;
 class student
