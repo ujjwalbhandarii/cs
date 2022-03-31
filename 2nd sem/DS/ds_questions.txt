@@ -3,30 +3,40 @@
 
                                   MATHEMATICAL INDUCTION
 
-1. Use mathematical induction to prove that 4n- 1 is divisible by 3.     --asked in 2069
+1. Use mathematical induction to prove that 4n- 1 is divisible by 3.     
+--asked in 2069
 
-2. State the rule for the strong form of mathematical induction with prepositions.   --asked in 2074
+2. State the rule for the strong form of mathematical induction with prepositions.   
+--asked in 2074
 
 3. Compute the following values.
 a. 3 mod 4          b. 7 mod 5           c. -5 mod 3           d. 11 mod 5          e. -8  mod 6
 
-4. Write down the recursive algorithm to find the value of bn and prove its correctness using induction.  --asked in 2075
+4. Write down the recursive algorithm to find the value of bn and prove its correctness using induction.  
+--asked in 2075
 
-5. Prove that for every positive integer n ≥ 1, n2+n is even integer using mathematical induction.   --asked in 2076
+5. Prove that for every positive integer n ≥ 1, n2+n is even integer using mathematical induction.   
+--asked in 2076
 
-6. Prove that 5n-1 is divisible by 4 using mathematical induction.   --asked in 2075
+6. Prove that 5n-1 is divisible by 4 using mathematical induction.   
+--asked in 2075
 
-7. Use mathematical induction to prove that the sum of the first n odd positive integers is n2?   --asked in 2071
+7. Use mathematical induction to prove that the sum of the first n odd positive integers is n2?   
+--asked in 2071
 
-8. Discuss Modus Ponens with suitable example.     --asked in 2071
+8. Discuss Modus Ponens with suitable example.     
+--asked in 2071
 
-9. Find an explicit formula for the Fibonacci numbers, with recursion relation fn−1 + fn−2 and f0 = 0 , f1 = 1.   --asked in 2065
+9. Find an explicit formula for the Fibonacci numbers, with recursion relation fn−1 + fn−2 and f0 = 0 , f1 = 1.   
+--asked in 2065
 
 10. For the Fibonacci sequence, prove that for n ≥ 2.
-f2n+1 − fn2 =  fn−1 fn−2                                         -- asked in 2069
+f2n+1 − fn2 =  fn−1 fn−2                                         
+-- asked in 2069
 
 11. Find an explicit formula for the Fibonacci sequence defined by
-fn = fn−1 + fn−2 ,  f1 = f2 = 1                                  -- asked in 2068
+fn = fn−1 + fn−2 ,  f1 = f2 = 1                                  
+-- asked in 2068
 
 12. Define explicit formula for the sequence: {a1, a2, a3,....}. Write an explicit formula for the sequence 2, 5, 7, 12, 19, 31.   
 --asked in 2069
