@@ -61,6 +61,10 @@ fn = fn−1 + fn−2 ,  f1 = f2 = 1
 
 
 
+
+
+
+
 ***************************************  chapter 5 *****************************************
                          
                               COUNTING AND DESCRETE PROBABILITY
@@ -207,3 +211,26 @@ asked in 2070
 42. Find the recurrence relation to find the number of moves needed to solve the TOH (Tower of Hanoi) problem with n disks. 
 Discuss application of recurrence relation in divide-and-conquer algorithms.
 asked in 2071
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
