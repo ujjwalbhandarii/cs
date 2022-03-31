@@ -1,0 +1,199 @@
+
+***************************************  chapter 4 *****************************************
+
+                                  MATHEMATICAL INDUCTION
+
+1. Use mathematical induction to prove that 4n- 1 is divisible by 3.     --asked in 2069
+
+2. State the rule for the strong form of mathematical induction with prepositions.   --asked in 2074
+
+3. Compute the following values.
+a. 3 mod 4          b. 7 mod 5           c. -5 mod 3           d. 11 mod 5          e. -8  mod 6
+
+4. Write down the recursive algorithm to find the value of bn and prove its correctness using induction.  --asked in 2075
+
+5. Prove that for every positive integer n ≥ 1, n2+n is even integer using mathematical induction.   --asked in 2076
+
+6. Prove that 5n-1 is divisible by 4 using mathematical induction.   --asked in 2075
+
+7. Use mathematical induction to prove that the sum of the first n odd positive integers is n2?   --asked in 2071
+
+8. Discuss Modus Ponens with suitable example.     --asked in 2071
+
+9. Find an explicit formula for the Fibonacci numbers, with recursion relation fn−1 + fn−2 and f0 = 0 , f1 = 1.   --asked in 2065
+
+10. For the Fibonacci sequence, prove that for n ≥ 2.
+f2n+1 − fn2 =  fn−1 fn−2                                         -- asked in 2069
+
+11. Find an explicit formula for the Fibonacci sequence defined by
+fn = fn−1 + fn−2 ,  f1 = f2 = 1                                  -- asked in 2068
+
+12. Define explicit formula for the sequence: {a1, a2, a3,....}. Write an explicit formula for the sequence 2, 5, 7, 12, 19, 31.   
+--asked in 2069
+
+13. What is mathematical induction? Use mathematical induction to prove that1.1! + 2.2! + ... + n.n! = (n+1)! – 1, wherever n is a positive integer.
+--asked in 2070
+
+14. Find all the solutions of the recurrence relation an  = 4an −1+n2 . Also find the solution of the relation with initial condition  a1 =1.
+--asked in 2072
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***************************************  chapter 5 *****************************************
+                         
+                              COUNTING AND DESCRETE PROBABILITY
+
+1. State pigeonhole principle. Solve the recurrence relation an = 3an-1 -  3an-2 + an-3 with initial conditions a0=1 ,a1 = 3, a2=7.
+asked in 2076
+
+2. Use binomial coefficient in the expansion of (x + y)4.
+asked in 2073
+
+3. What is the coefficient of x12 y13 in the expansion of (2x – 3y)25 ?
+asked in 2070
+
+4. Determine whether the sequence {an} is solution of the recurrence relation an =2an−1 − an−2 where an = 3n.
+asked in 2073
+
+5. State and prove the Pigeonhole principle.
+asked in 2065
+
+6. State the Pigeonhole principle. How many students must be in class to guarantee that at least two students receive the same 
+score on the final exam is graded on a scale from 0 to 100?
+asked in 2066
+
+7. State and prove the Pigeonhole principle.
+asked in 2067
+
+8. State and prove “the extended pigeonhole principle”.
+asked in 2068
+
+9. State and prove “the pigeonhole principle”.
+asked in 2069
+
+10. Is the sequence {an} a solution of the recurrence relation an = -3an-1 + 4an-2 if an = 2n?
+asked in 2070
+
+11. How many different license plates is available if each plate contains sequence of three letters followed by three digits?
+asked in 2071
+
+12. In how many ways we can draw a heart or a diamond from an ordinary deck of playing cards?
+asked in 2072
+
+13. Define linear nonhomogeneous recurrence relation of degree k with coefficients.
+asked in 2073
+
+14. State and prove " the extended pigeonhole principle".
+asked in 2074
+
+15. Define linear homogeneous recurrence relation.
+asked in 2065
+
+16. Let {an} be a sequence that satisfies the recursion relation an = an-1 - an-2 for n≥2 and suppose that a0 = 3 and a1=5. 
+Find the values a2 and a3.
+asked in 2066
+
+17. How many ways are there to select a first, second and third – prize winners from 10 different people?
+asked in 2067
+
+18. Develop a “general explicit formula” for a nonhomogeneous recurrence relation of the form: an = rqn-1 +s, where s and r are constants.
+asked in 2069
+
+19. Define linear homogeneous recurrence relation of degree k with constant coefficients.
+asked in 2070
+
+20. How many students must be in a class to guarantee that at least two students receive the same score on the final exam, if the exam is 
+graded on a scale from 0 to 100 points?
+asked in 2071
+
+21. What is pigeonhole principle?
+asked in 2072
+
+22. Define linear homogeneous recurrence relation.
+asked in 2074
+
+23. Solve the recurrence relation an = 5an-1 - 6an-2 with initial conditions a0 = 1 and a1 = 2.
+asked in 2075
+
+24. State and prove pigeonhole principle. What is the minimum number of student required in a discrete mathematics class 
+to be sure that at least six receive the same grade, if there are five possible grades A, B, C, D, and F?
+asked in 2073
+
+25. How many bit strings of length eight either start with a 1 bit or end with two bits 00?
+asked in 2070
+
+26. Discuss the importance of recurrence relation in the analysis pf divide – and – conquer algorithms.
+asked in 2073
+
+27. Find the solution of the recursion relation an = an-1 + 2an-2 with a0 = 2 and a1=7?
+**OR**
+Find an explicit formula for the Fibonacci numbers.
+asked in 2066
+
+28. How many 3 digits numbers can be formed from the digits 1,2,3,4 and 5 assuming that:
+a. Repetitions of digits are allowed
+b. Repetitions of digits are not allowed 
+asked in 2076
+
+29. Define the binomial coefficient and give the general term of the binomial coefficient. Show that the sum of the 
+binomial coefficient is 2n.
+asked in 2067
+
+30. Discuss the importance of recurrence relations in the analysis of divide-and-conquer algorithms.
+asked in 2070
+
+31. What is binomial theorem? Use this theorem to find the coefficient of x12 y13 in the expansion of(2x – 3y)25.
+asked in 2071
+
+32. Discuss the principles of inclusion-exclusion. How many bit strings of length eight either start with a 1 bit or end with two bits 00?
+asked in 2072
+
+33. List any two applications of conditional probability. You have 9 families you would like to invite to a wedding. 
+Unfortunately, you can only invite 6 families. How many different sets of invitations could you write?
+asked in 2075
+
+35. Find the solution to the recurrence relation an = 6an−1 − 11an−2 + 6an−3 with the initial conditions a0 = 2, a1 = 5, and a2 = 15.
+**OR**
+Find the explicit formula for the Fibonacci numbers. Use fn = fn−1 + fn−2 as recursive condition and f0 = 0 and f1 = 1 as initial condition.
+asked in 2073
+
+36. Define linear homogenous recurssion relation of degree k with constant coefficient with suitable examples. What is the solution of 
+recurrence relation an = 6 an-1 - 9 an-2 with a0 = 1 and a1 = 6?
+asked in 2074
+
+37. Define linear homogeneous recursion relation of degree K with constant coefficient with suitable examples. What
+is the solution of the recurrence relation an = an−1 + 2an−2 with a0 = 2 and a1 = 7?
+asked in 2065
+
+38. Describe linear homogeneous and linear non-homogeneous recurrence relations with suitable examples.
+asked in 2066
+
+39. Find the solution to the recursion relationan = 6an-1 – 11an-2 + 6an-3 with initial conditions a0 = 2, a1 = 5 and a2 = 15.
+** OR **
+
+40. Suppose that a person deposits Rs.10,000/- in a fixed account at a bank yielding 11% per year with interest
+compounded annually. How much will be in the account after 10 years? Solve the problem with modeling it into
+recursion relations.
+asked in 2067
+
+41. Solve the recurrence relation an = 2an-1 + 2an-2 + 2an-3 for n ≥ 3, a0 = 3, a1 = 6 and a2 = 9.
+OR
+Find the explicit formula for the Fibonacci numbers. Use fn = fn-1 + fn-2 as recursive condition and
+f0 = 0 and f1 = 1 as initial condition.
+asked in 2070
+
+42. Find the recurrence relation to find the number of moves needed to solve the TOH (Tower of Hanoi) problem with n disks. 
+Discuss application of recurrence relation in divide-and-conquer algorithms.
+asked in 2071
