@@ -127,3 +127,57 @@ asked in 2076
 
 28. Explain how pipelining is achieved in 8086 microprocessor.
 asked in 2075
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**************************************************** chapter 3 ****************************************************
+
+
+1. Explain instruction cycle, machine cycle and T-States. Draw timing diagram of STA instruction. Make necessary assumptions.
+asked in 2075
+
+2. Explain about fetch operation and timing diagram.
+asked in 2066
+
+3. Explain execute operation and timing diagram with suitable example.
+asked in 2067
+
+4. Draw the timing diagram of instruction MVI B, 9 bit stored a memory location 4050H and explain it.
+asked in 2074
+
+5. Draw the timing diagram for MOV B and explain it.
+asked in 2069
+
+6. Draw the timing diagram of instruction MVI A, 36H and explain it.
+asked in 2070
+
+7. Illustrate the steps and the timing of data flow when the instruction code 4FH stored location 2005H is fetched by the microprocessor unit.
+asked in 2071
+
+8. Draw and explain the timing diagram for the execution of the instruction MVI A, 32H.
+asked in 2072
+
+9. Draw the timing diagram for ADD C and explain it.
+asked in 2065
+
+10. Draw the timing diagram for MVI B and explain it.
+asked in 2068
+
+11. What is fetch and execute cycle? Explain it with timing diagram.
+asked in 2069
