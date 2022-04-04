@@ -1,0 +1,22 @@
+1. Draw the block diagram of basic microprocessor and explain it. Which block design is simple and explain it?
+asked in 2065
+
+2. Explain the operation of the basic microprocessor using block diagram.
+asked in 2069
+
+3. Compare and contrast microprocessor, CPU and microprocessor.
+asked in 2071
+
+4. Differentiate between data and address bus with suitable example.
+asked in 2067
+
+5. What do you understand by I/O interface? Explain different types of I/O instructions.
+asked in 2068
+
+6. What is system bus? Explain different types of system bus in detail.
+asked in 2075
+
+7. Write short notes on:
+    a) Von Neumann architecture
+    b) Macro Assembler
+asked in 2075
