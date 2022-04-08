@@ -31,7 +31,7 @@ public:
 // note: this function is not a member function!
 Cents operator+(const Cents &cents, int value)
 {
-    return Cents(cents.fm_cents + value); // error
+    // return Cents(cents.fm_cents + value); // error
 }
 
 int main()
