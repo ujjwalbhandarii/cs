@@ -1,4 +1,4 @@
-//   { copy and paste the code in seprate file }
+//         { copy and paste the code in seprate file }
 
 /*
 Overloading operators using a member function is very similar to overloading operators using a friend function. When overloading an operator using a member function:
@@ -31,7 +31,7 @@ public:
 // note: this function is not a member function!
 Cents operator+(const Cents &cents, int value)
 {
-    return Cents(cents.fm_cents + value);
+    return Cents(cents.fm_cents + value); // error
 }
 
 int main()
