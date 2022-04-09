@@ -81,3 +81,160 @@ a. Manipulators
 b. Protected Access Specifier
 asked in 2078
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**************************************************************************************************************************************
+
+2. How can you convert the user defined data type into primitive data type and vice versa? Explain both conversion routine with suitable example.
+
+asked in 2075( Old Course)
+
+2. Why do we need the preprocessor directive # include < io stream >? Describe the major parts of a C++ program.
+
+asked in 2070
+
+3. What is function overloading? How is it different from function overriding? Write a program that gives an example of function overriding.
+
+asked in 2073
+
+3. What do you mean by overloading of a function? When do we use this concept? Explain with example. 
+
+asked in 2070
+
+3. Why data conversion is needed? Write a program to convert kilogram into gram using user define to user define data conversion.(1 kg = 1000 gm).
+
+asked in 2074
+
+4. What is type casting? Explain with suitable example.
+
+asked in 2066
+
+4. Explain the do while structure. 
+
+asked in 2069
+
+5. What is function overloading? Explain with suitable example. 
+
+asked in 2068
+
+5. Explain the inline function with example. 
+
+asked in 2069
+
+5. Explain with example of an inline function.
+
+asked in 2070
+
+5. What is library function? How is it different from user defined function? 
+
+asked in 2071
+
+5. Explain do/while structure with example. 
+
+asked in 2072
+
+5. What is function overloading ? Explain with example.
+
+asked in 2074
+
+6. Why type conversion is necessary in OOP? Explain with example, the type conversion routine. 
+
+asked in 2067
+
+6. Discuss relationship between pointers and arrays.
+
+asked in 2073
+
+6. What is library function? How is it different from user defined function?  
+
+asked in 2071
+
+6. Explain the Inline function with example. 
+
+asked in 2072
+
+6.What is function? Write a program to find greatest number among any three numbers using function.
+asked in 2074
+
+7. Explain about this pointer with suitable example.
+
+asked in 2075( Old Course)
+
+5. What is the use of new and delete operators? Illustrate with example. What are advantages of new malloc.
+
+
+asked in 2076
+
+7. Explain the use of inline function with example.
+
+asked in 2073
+
+7. Differentiate between structure and class in terms of access modifier 
+
+asked in 2070
+
+7. Discuss the use of inline function with example. 
+
+asked in 2071
+
+5. What is the principle reason for using default arguments in the function? Explain how missing arguments and default arguments are handled by the function simultaneously?
+
+ show solution
+asked in 2075
+
+6. What is meant by return by reference? How can we return values by reference by using reference variable? Illustrate with examples.
+
+asked in 2076
+
+6."An overloaded function appears to perform different activities depending the kind of data send to it" Justify the statement with appropriate example.
+
+asked in 2075
+
+9. Explain with example, how you create space for array of object using pointers? 
+
+asked in 2069
+
+9. Differentiate between overriding vs overloading.
+
+asked in 2070
+
+9. Differentiate between macro and function. 
+
+asked in 2072
+
+8. What is this pointer? How can we use it for name conflict resolution?Illustrate with example.
+
+ show solution
+asked in 2076
+
+10. Explain the use of break and continue statements in switch case statements in C++. 
+
+asked in 2072
+
+11. Write a program to demonstrate the use of default argument  in functions.
+
+asked in 2075( Old Course)
+
+11. Explain the different storage classes in C++. 
+
+asked in 2072
+
+12. How can you differentiate a macro with an inline function? Are they same or different? Justify.
+
+asked in 2075( Old Course)
+
+13. What are the major differences between overriding and overloading? 
+
+asked in 2069
