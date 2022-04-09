@@ -1,0 +1,83 @@
+1. Discuss the feature of Object-Oriented Programming. Differentiate between Object Oriented Programming and any other programming language that you know.
+asked in 2075( Old Course)
+
+1. Explain in detail the following principles of Object-Oriented Programming. 
+i. Data encapsulation and data hiding.     ii. Inheritance and polymorphism.      iii. Abstraction
+asked in 2066
+
+1. What is object-oriented approach? How is it different from structured programming approach? Discuss the features of object-oriented languages in detail.
+asked in 2073
+
+1. Discuss the feature of the Object-Oriented Programming. Differentiate between Object Oriented Programming and Procedural Oriented Programming.
+asked in 2067
+
+1. What are the main features of the Object-Oriented Programming? Explain with suitable practical examples.
+asked in 2068
+
+1. Write a program according to the specification given below:
+- Create a class Account with data members acc no, balance, and min_balance(static)
+-Include methods for reading and displaying values of objects
+- Define static member function to display min_balance
+
+-Create array of objects to store data of 5 accounts and read and display values of each object
+asked in 2078
+
+1. Differentiate between structural programming approach and object oriented programming approach. Explain the inheritance, polymorphism with example.
+asked in 2069
+
+1. Write down the features of  object oriented programming language and explain.
+asked in 2074
+
+1. Write any four features of object-oriented programming. Differentiate between operator overloading and function overloading.
+asked in 2070
+
+1. Why do we need object oriented programming? How can we use inheritance to reuse already written and tested code in programs? Discuss with suitable example. (3+3+4)
+asked in 2071
+
+1. Explain the object oriented programming with its advantages. What are the features of object oriented languages? Explain.
+asked in 2072
+
+2. What is meant by type conversion? Define two way of converting one user defined data type (object) to another user defined object? Write a program that converts object of another distance class with data members feet and inch.(Assume 1m = 3.3 feet and 1cm = 0.4 inch)
+asked in 2078
+
+3. How ambiguity arises in multipath inheritance? How can you remove this type of ambiguity? Explain with suitable example.
+asked in 2078
+
+4. Explain abstraction with example.
+asked in 2073
+
+4. What is structured programming? Discuss characteristics and problems associated with structured programming.
+asked in 2078
+
+4. How object oriented programming differs from object based programming language? Discuss benefits of OOP.
+asked in 2076
+
+5. What is the use of get and getline functions? Explain with suitable example.
+asked in 2078
+
+6. What is meant by pass by reference? How can we pass arguments by reference by using reference variable? Illustrate with example.
+asked in 2078
+
+7. What is constructor? Explain the concept of default and default copy with suitable example.
+asked in 2078
+
+8. What is the concept of friend function? How it violates the data hiding principle? Justify with example.
+asked in 2078
+
+9. What is exception? Why exception handling is better to use? Explain exception handling with try..... catch by using suitable example.
+asked in 2078
+
+10. When class templates are useful? How can you define a class that can implement stack with integer as well as sack of strings? Illustrate with example.
+asked in 2078
+
+11. How can we define our functions inside the namespace and use them outside?
+asked in 2070
+
+11. What is meant by stream? Write a program that reads content of file data.txt and displays the content in monitor.
+asked in 2078
+
+12. Write short notes on:
+a. Manipulators
+b. Protected Access Specifier
+asked in 2078
+
