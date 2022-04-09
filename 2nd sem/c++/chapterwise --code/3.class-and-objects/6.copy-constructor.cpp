@@ -1,6 +1,6 @@
-/*
+/*     [[copy constructor ]]
 A copy constructor is a member function which initializes an object using another object of the same class.
-Detailed article on Copy Constructor.
+
 
 Whenever we define one or more non-default constructors( with parameters ) for a class,
 a default constructor( without parameters ) should also be explicitly defined as the compiler
